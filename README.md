@@ -12,8 +12,6 @@ HullcamVDS for camera views
 Make sure the vehicle has 6 engines (3x Raptor 1 SL and 3x Raptor 1 Vac) to descend stably. Also make sure the header tank is full while the main tanks are empty.
 
 # License
-All configs (.cfg files)
-
-All configs are distributed under CC-NC-SA-4.0 license. All MK0_*.mu files use [this model]([https://fabian-kober.squarespace.com/projects/spacex-starship-model](https://www.thingiverse.com/thing:4089243).
+All configs (.cfg files) are distributed under CC-NC-SA-4.0 license. All MK0_*.mu files use [this model]([https://fabian-kober.squarespace.com/projects/spacex-starship-model](https://www.thingiverse.com/thing:4089243).
 All assets (all .dds, .png and .mu files)are distributed under an All Rights Reserved license.
 You may not redistribute or re-use these assets without express permission from the author. Updated on July 4th, 2025
