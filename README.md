@@ -4,7 +4,7 @@ A mod that adds additional vehicles to KSP, as an addon to SEP.
 # Dependencies
 Starship Expansion Project latest version (including beta) with all of its dependencies
 
-##VERY recommended:
+## VERY recommended:
 Resurfaced, Shabby for shiny parts and proper textures
 HullcamVDS for camera views
 
